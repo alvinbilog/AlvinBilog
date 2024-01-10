@@ -41,7 +41,7 @@ If you find my projects helpful or simply want to support my learning journey, y
 
 - **GitHub:** [alvinbilog][(https://github.com/peashooter45)](https://github.com/alvinbilog)
 - **Email:** [balvinpatrick@yahoo.com](mailto:balvinpatrick@yahoo.com)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/alvin-patrick-bilog-095ba6a8/)
+- **LinkedIn:** [Alvin Patrick Bilog](https://www.linkedin.com/in/alvin-patrick-bilog-095ba6a8/)
 
 Thanks for visiting my GitHub profile! I hope you find my projects inspiring and useful. Happy coding! 🚀
 
