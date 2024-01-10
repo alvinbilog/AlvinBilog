@@ -39,7 +39,7 @@ If you find my projects helpful or simply want to support my learning journey, y
 
 ## 📫 Get in Touch
 
-- **GitHub:** [alvinbilog][(https://github.com/peashooter45)](https://github.com/alvinbilog)
+- **GitHub:** [(https://github.com/alvinbilog)](https://github.com/alvinbilog)
 - **Email:** [balvinpatrick@yahoo.com](mailto:balvinpatrick@yahoo.com)
 - **LinkedIn:** [Alvin Patrick Bilog](https://www.linkedin.com/in/alvin-patrick-bilog-095ba6a8/)
 
