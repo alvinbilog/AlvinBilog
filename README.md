@@ -5,7 +5,7 @@ Welcome to my GitHub repository. I'm a budding developer excited about learning 
 - 🏢 I’m currently intern on Tito Solutions PH
 - 🗺 I’m based in US
 - 👯 I’m looking to collaborate on open source projects
-- 📫 How to reach me: balvinpatrick@yahoo.com
+- 📫 How to reach me: [balvinpatrick@yahoo.com](mailto:balvinpatrick@yahoo.com)
 - ⚡ Aspiring to be a Fullstack Developer
 ## 🚀 Tech Stack
 
@@ -39,7 +39,7 @@ If you find my projects helpful or simply want to support my learning journey, y
 
 ## 📫 Get in Touch
 
-- **GitHub:** [Peashooter45](https://github.com/peashooter45)
+- **GitHub:** [alvinbilog][(https://github.com/peashooter45)](https://github.com/alvinbilog)
 - **Email:** [balvinpatrick@yahoo.com](mailto:balvinpatrick@yahoo.com)
 - **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/alvin-patrick-bilog-095ba6a8/)
 
