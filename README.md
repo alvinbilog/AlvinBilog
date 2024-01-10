@@ -1,24 +1,12 @@
-### Hi there 👋
-
-<!--
-**alvinbilog/AlvinBilog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # 👋 Hello, I'm Alvin Bilog
 
 Welcome to my GitHub repository. I'm a budding developer excited about learning and building web applications. Below, you'll find an overview of my preferred tech stack and some suggestions for navigating my projects.
 
+- 🏢 I’m currently intern on Tito Solutions PH
+- 🗺 I’m based in US
+- 👯 I’m looking to collaborate on open source projects
+- 📫 How to reach me: balvinpatrick@yahoo.com
+- ⚡ Aspiring to be a Fullstack Developer
 ## 🚀 Tech Stack
 
 - **Frontend:**
