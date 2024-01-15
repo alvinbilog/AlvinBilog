@@ -2,7 +2,7 @@
 
 Welcome to my GitHub repository. I'm a budding developer excited about learning and building web applications. Below, you'll find an overview of my preferred tech stack and some suggestions for navigating my projects.
 
-- 🏢 I’m currently intern on Tito Solutions PH
+- 🏢 I’m currently working as a software engineer intern on Tito Solutions PH
 - 🗺 I’m based in US
 - 👯 I’m looking to collaborate on open source projects
 - 📫 How to reach me: [balvinpatrick@yahoo.com](mailto:balvinpatrick@yahoo.com)
