@@ -6,7 +6,7 @@ Welcome to my GitHub repository. I'm a budding developer excited about learning 
 - 🗺 I’m based in US
 - 👯 I’m looking to collaborate on open source projects
 - 📫 How to reach me: [balvinpatrick@yahoo.com](mailto:balvinpatrick@yahoo.com)
-- ⚡ Aspiring to be a Fullstack Developer
+- ⚡ Fullstack Developer
 ## 🚀 Tech Stack
 
 - **Frontend:**
